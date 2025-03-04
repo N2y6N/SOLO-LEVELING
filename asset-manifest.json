@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SOLO-LEVELING/static/css/main.dd4fd909.css",
-    "main.js": "/SOLO-LEVELING/static/js/main.b249a8d2.js",
+    "main.js": "/SOLO-LEVELING/static/js/main.714ede16.js",
     "static/media/bck.jpg": "/SOLO-LEVELING/static/media/bck.c51da0ad153d1f024aad.jpg",
     "index.html": "/SOLO-LEVELING/index.html",
     "main.dd4fd909.css.map": "/SOLO-LEVELING/static/css/main.dd4fd909.css.map",
-    "main.b249a8d2.js.map": "/SOLO-LEVELING/static/js/main.b249a8d2.js.map"
+    "main.714ede16.js.map": "/SOLO-LEVELING/static/js/main.714ede16.js.map"
   },
   "entrypoints": [
     "static/css/main.dd4fd909.css",
-    "static/js/main.b249a8d2.js"
+    "static/js/main.714ede16.js"
   ]
 }
